@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#e6edf5"/>
+  <g fill="none" stroke="#2b4a6f" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="130" cy="185" r="68"/>
+    <circle cx="350" cy="185" r="68"/>
+    <path d="M130 185 L205 95 L320 95 L350 185 M205 95 L240 185 L320 95 M240 185 L130 185"/>
+    <path d="M190 72 L225 72 M320 95 L310 62 L345 62"/>
+  </g>
+  <circle cx="240" cy="185" r="12" fill="#2b4a6f"/>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="15" fill="#2b4a6f" text-anchor="middle">Platshållarbild · bike.svg</text>
+</svg>

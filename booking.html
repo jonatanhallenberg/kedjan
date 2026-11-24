@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <title>Boka tid – Kedjan</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Start</a></li>
+          <li><a href="services.html">Tjänster</a></li>
+          <li><a href="booking.html">Boka tid</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Boka tid</h1>
+      <p>Fyll i formuläret så hör vi av oss och bekräftar tiden.</p>
+      <form>
+        <p>
+          <label for="name">Namn</label>
+          <input type="text" id="name" required />
+        </p>
+        <p>
+          <label for="email">E-post</label>
+          <input type="email" id="email" required />
+        </p>
+        <p>
+          <label for="date">Önskad dag</label>
+          <input type="date" id="date" required />
+        </p>
+        <p>
+          <label for="count">Antal cyklar</label>
+          <input type="number" id="count" />
+        </p>
+        <p>
+          <label for="service">Vad ska vi göra?</label>
+          <select id="service">
+            <option>Laga punktering</option>
+            <option>Service</option>
+            <option>Byta kedja</option>
+            <option>Något annat</option>
+          </select>
+        </p>
+        <p>
+          <label for="description">Beskriv felet</label>
+          <textarea id="description"></textarea>
+        </p>
+        <button>Skicka bokning</button>
+      </form>
+    </main>
+    <footer>
+      <p>Cykelverkstaden Kedjan · Kedjegatan 4, Stockholm</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#e4f0e8"/>
+  <g fill="none" stroke="#2f5d3f" stroke-width="18" stroke-linecap="round">
+    <path d="M150 220 L300 90"/>
+  </g>
+  <circle cx="320" cy="72" r="38" fill="none" stroke="#2f5d3f" stroke-width="16"/>
+  <rect x="318" y="38" width="30" height="34" fill="#e4f0e8" transform="rotate(41 333 55)"/>
+  <circle cx="150" cy="220" r="14" fill="#2f5d3f"/>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="15" fill="#2f5d3f" text-anchor="middle">Platshållarbild · tools.svg</text>
+</svg>

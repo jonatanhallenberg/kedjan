@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+  <rect width="480" height="300" fill="#f3ece2"/>
+  <g fill="none" stroke="#6b4a2b" stroke-width="9">
+    <rect x="40" y="120" width="110" height="50" rx="25"/>
+    <rect x="125" y="120" width="110" height="50" rx="25"/>
+    <rect x="210" y="120" width="110" height="50" rx="25"/>
+    <rect x="295" y="120" width="110" height="50" rx="25"/>
+  </g>
+  <g fill="#6b4a2b">
+    <circle cx="65" cy="145" r="9"/><circle cx="150" cy="145" r="9"/><circle cx="235" cy="145" r="9"/>
+    <circle cx="320" cy="145" r="9"/><circle cx="380" cy="145" r="9"/>
+  </g>
+  <text x="240" y="285" font-family="Arial, sans-serif" font-size="15" fill="#6b4a2b" text-anchor="middle">Platshållarbild · chain.svg</text>
+</svg>
